@@ -4,6 +4,18 @@
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discord.gg/kcJyy6zyxW)
 [![made-with-javascript](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg)](https://www.javascript.com)
 
+.
+
+    👨‍🎓Estudando Javascript
+
+    Em breve deixo o perfil mais organizado e bonito
+.
+
+.
+
+.
+
+.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shacalldev&show_icons=true&theme=radical)
 
